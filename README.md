@@ -1,8 +1,8 @@
 ## E-Commerce MERN Application
 
 #### Description
-  This project contains basic level implementation of an E-Commerce App where user can see list of products and can view and buy the products.
-  Admin can create products, and can add, edit and delete each product as well. Admin can add categories and edit and delete them as well.
+  This project contains the basic level implementation of an E-Commerce App where users can see a list of products and can view and buy the products.
+  Admin can create products and can add, edit, and delete each product as well. Admin can add categories and edit and delete them as well.
   
   #### User Features
     - Login/Register
