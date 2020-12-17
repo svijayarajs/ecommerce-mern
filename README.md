@@ -1,9 +1,9 @@
 ## E-Commerce MERN Application
 
-#### Description
+## Description
   This project contains the basic level implementation of an E-Commerce App where users can buy products and Admin can handle products
   
-  #### User Features
+  ## User Features
   - Login/Register
   - Logout
   - List of all products
@@ -14,13 +14,13 @@
   - Deleting product in cart
   - Detail/Description of each product
 
-#### Admin Features
+## Admin Features
    - Admin login
    - List of all products
    - Add, edit, delete product
    - Add, edit, delete catgory
 
-#### Tech stack used
+## Tech stack used
    - MongoDB
    - Express.js
    - Reactjs
@@ -28,7 +28,7 @@
    - Bootstrap v4
    - Cloudinary(to keep images)
     
-#### Preview/Screenshots
+## Preview/Screenshots
 
 
 - Register
@@ -72,7 +72,7 @@
 ![alt text](https://github.com/zeeshanhshaheen/client-ecommerce/blob/master/images/Screenshot%20from%202020-12-15%2017-32-41.png)
 
 
-### Setup on local machine
+## Setup on local machine
 
 - Download or clone the project
 -  open your terminal 
