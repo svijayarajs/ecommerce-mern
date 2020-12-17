@@ -1,33 +1,32 @@
 ## E-Commerce MERN Application
 
 #### Description
-  This project contains the basic level implementation of an E-Commerce App where users can see a list of products and can view and buy the products.
-  Admin can create products and can add, edit, and delete each product as well. Admin can add categories and edit and delete them as well.
+  This project contains the basic level implementation of an E-Commerce App where users can buy products and Admin can handle products
   
   #### User Features
-    - Login/Register
-    - Logout
-    - List of all products
-    - View product
-    - Buy product
-    - Add to cart
-    - Increaing and Decreasing number of products in cart
-    - Deleting product in cart
-    - Detail/Description of each product
+  - Login/Register
+  - Logout
+  - List of all products
+  - View product
+  - Buy product
+  - Add to cart
+  - Increaing and Decreasing number of products in cart
+  - Deleting product in cart
+  - Detail/Description of each product
 
 #### Admin Features
-    - Admin login
-    - List of all products
-    - Add, edit, delete product
-    - Add, edit, delete catgory
+   - Admin login
+   - List of all products
+   - Add, edit, delete product
+   - Add, edit, delete catgory
 
 #### Tech stack used
-    - MongoDB
-    - Express.js
-    - Reactjs
-    - Node.js
-    - Bootstrap v4
-    - Cloudinary(to keep images)
+   - MongoDB
+   - Express.js
+   - Reactjs
+   - Node.js
+   - Bootstrap v4
+   - Cloudinary(to keep images)
     
 #### Preview/Screenshots
 
@@ -82,22 +81,21 @@
 - Write `cd client` and run `npm start` to start Reactjs application
 
 ## Instructions for user
-    - On the main page click on the `Register or Login` button to register or login
-    - You can see all the products listed
-    - Click on `buy` to buy the product
-    - Click on `view` to view the product
-    - Click on the `cart` button to view your products that you have been added
+- On the main page click on the `Register or Login` button to register or login
+- You can see all the products listed
+- Click on `buy` to buy the product
+- Click on `view` to view the product
+- Click on the `cart` button to view your products that you have been added
     
  ## Instructions for Admin
-    - On the main page click on the `Register or Login` button to register or login
-    - On the login page, enter the following credentials
-    
-            - `Email`: admin@gmail.com
-            - `Password`: 123456
+ - On the main page click on the `Register or Login` button to register or login
+ - On the login page, enter the following credentials
+    - `Email`: admin@gmail.com
+    - `Password`: 123456
             
-    - After you logged in you will see list of products, now you can edit and delete them
-    - You can create product by clicking "Create Product" button on navbar
-    - You can create categories by clicking "Categories" button on navbar
+ - After you logged in you will see list of products, now you can edit and delete them
+ - You can create product by clicking "Create Product" button on navbar
+ - You can create categories by clicking "Categories" button on navbar
 
 
 
